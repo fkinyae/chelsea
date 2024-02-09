@@ -9,6 +9,41 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.chelsimage {
+    margin-top: 30px;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 40px;
+    background: #fff;
+    padding: 2rem;
+    box-shadow: 0 0.2rem 1.2rem rgba(12, 142, 140, 0.2);
+
+}
+.cfcstyle {
+    border-radius: 30px;
+
+}
+
+.caption {
+    font-size: 1.8rem;
+    text-align: center;
+    line-height: 2em;
+    font-style: italic;
+    color: #23C3BC;
+  }
+
+.chels-logo-container {
+    position: relative;
+    display: inline-block;
+    width: 35%;
+    margin-top: 1rem;
+    
+    
+}
+
+
+
 body {
     text-align: center;
 }
@@ -17,4 +52,20 @@ ul {
     display: table; 
     margin: 0 auto;
     text-align: left;
+    
 }
+
+ul.player_names {
+    font-style: italic;
+    color: #D54D4B;
+}
+
+strong.grad {
+    font-style: italic;
+}
+
+#still {
+    color: #5E94EC;
+}
+
+

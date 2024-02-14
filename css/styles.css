@@ -46,7 +46,7 @@ h2 {
 
 body {
     text-align: center;
-    background-color: #dcefee;
+    background-color:#5E94EC;
 }
 
 ul {
@@ -72,7 +72,11 @@ strong.grad {
 
 
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 900px) {
+    body {
+        background-color: #dcefee;
+
+    }
     
 }
 
